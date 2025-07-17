@@ -1,2 +1,2 @@
 # project
-a sampe program of calculator
+a sample program of calculator
